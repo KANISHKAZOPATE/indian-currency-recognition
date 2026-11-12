@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+secrets.toml
+kaggle.json
+**/kaggle.json
+dataset/
+results/
+.git/
+.streamlit/secrets.toml
+
+complete_dataset_file_list.csv
+dataset_files.json
+dataset_files_page2.json
